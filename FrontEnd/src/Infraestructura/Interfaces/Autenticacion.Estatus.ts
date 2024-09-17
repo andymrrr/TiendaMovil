@@ -1,0 +1,1 @@
+export type AutenticacionEstatus = "Autenticado" | "NoAutenticado" |"Validando"
